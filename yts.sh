@@ -1,5 +1,5 @@
 #!/bin/bash
-set -x
+#set -x
  runtime(){
   case "$1" in
     start)
